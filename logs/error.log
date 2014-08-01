@@ -533,3 +533,15 @@ stack traceback:
 2014/07/31 09:01:01 [alert] 449#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
 2014/07/31 09:01:08 [error] 451#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
 2014/07/31 11:33:26 [error] 451#0: *9 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.169, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/08/01 10:21:23 [warn] 1579#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/08/01 10:21:23 [alert] 1579#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/08/01 10:33:00 [error] 1581#0: *6 open() "./html/res/src.zip" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/src.zip HTTP/1.1", host: "localhost:8080"
+2014/08/01 14:51:31 [error] 1581#0: *247 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/08/01 14:52:24 [error] 1581#0: *253 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.169, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/08/01 15:02:31 [error] 1581#0: *256 failed to run set_by_lua*: ./conf/version.lua:36: version.lua: No such file or directory
+stack traceback:
+	[C]: in function 'assert'
+	./conf/version.lua:36: in function <./conf/version.lua:1>, client: 10.68.102.169, server: , request: "GET /version?version_code=10000&client_id=10000&client_secret=e5a7c3beffe6dea4105ff1c64c42089f HTTP/1.1", host: "ali-howie.local:8080"
+2014/08/01 15:04:16 [error] 1581#0: *260 failed to run set_by_lua*: ./conf/version.lua:37: attempt to index local 'f' (a nil value)
+stack traceback:
+	./conf/version.lua:37: in function <./conf/version.lua:1>, client: 10.68.102.169, server: , request: "GET /version?version_code=10000&client_id=10000&client_secret=e5a7c3beffe6dea4105ff1c64c42089f HTTP/1.1", host: "ali-howie.local:8080"

@@ -22,9 +22,12 @@ if param_client_id~=nil and param_client_secret~=nil and param_version_code~=nil
     if tonumber(param_version_code) < latest_version then
         response["latest_version"] = latest_version
         local zip = {}
-        zip["url"]= "http://localhost:8080/res/src.zip"
-        zip["md5"]= "f7c029cfe890ea1f30f73095af17cd0b"
-   
+        local f = io.open("html/res/monster.zip",'r')
+        local str = f:read("*all") 
+        f:close()
+        zip["url"]= "http://localhost:8080/res/monster.zip"
+        zip["md5"]= ngx.md5(str)
+
         response["download"] = {zip}
     else
         response["response"] = "no update"
@@ -32,5 +35,4 @@ if param_client_id~=nil and param_client_secret~=nil and param_version_code~=nil
 else
     response["error_code"] = "30102"
 end
-
 return cjson.encode(response)
