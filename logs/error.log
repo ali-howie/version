@@ -1,0 +1,535 @@
+2014/07/01 10:49:37 [notice] 50721#0: signal process started
+2014/07/01 10:58:57 [notice] 50769#0: signal process started
+2014/07/01 10:58:57 [emerg] 50685#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2014/07/01 10:59:17 [notice] 50773#0: signal process started
+2014/07/01 10:59:17 [emerg] 50685#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2014/07/01 10:59:30 [notice] 50774#0: signal process started
+2014/07/01 11:02:26 [notice] 50795#0: signal process started
+2014/07/01 11:03:30 [notice] 50799#0: signal process started
+2014/07/01 11:03:32 [error] 50800#0: *13 open() "/Users/howie/Sites/res/dddd" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /dddd HTTP/1.1", host: "localhost:8080"
+2014/07/01 11:03:32 [error] 50800#0: *13 open() "/Users/howie/Sites/res/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/01 11:07:57 [notice] 50821#0: signal process started
+2014/07/01 11:08:34 [notice] 50825#0: signal process started
+2014/07/01 11:08:35 [error] 50826#0: *17 open() "/Users/howie/Sites/res/Users/howie/Sites/html/index.html" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2014/07/01 11:10:52 [notice] 50834#0: signal process started
+2014/07/01 11:11:20 [notice] 50841#0: signal process started
+2014/07/01 11:11:22 [error] 50842#0: *20 "/Users/howie/Sites/alitest/ress/html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2014/07/01 11:11:51 [notice] 50846#0: signal process started
+2014/07/01 11:11:52 [error] 50847#0: *21 directory index of "/Users/howie/Sites/alitest/res/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2014/07/01 11:12:08 [notice] 50848#0: signal process started
+2014/07/01 11:14:53 [notice] 50859#0: signal process started
+2014/07/01 11:16:18 [error] 50860#0: *27 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:16:20 [error] 50860#0: *27 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:16:20 [error] 50860#0: *27 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:16:21 [error] 50860#0: *27 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:19:12 [notice] 50870#0: signal process started
+2014/07/01 11:19:46 [notice] 50874#0: signal process started
+2014/07/01 11:19:50 [error] 50875#0: *31 "/Users/howie/Sites/alitest/../../res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:29 [notice] 50876#0: signal process started
+2014/07/01 11:20:32 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:32 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:33 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:33 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:33 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:33 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:34 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:34 [error] 50877#0: *33 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:47 [notice] 50878#0: signal process started
+2014/07/01 11:20:48 [error] 50879#0: *36 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:49 [error] 50879#0: *36 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:49 [error] 50879#0: *36 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:49 [error] 50879#0: *36 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:20:50 [error] 50879#0: *36 "/Users/howie/Sites/res/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:21:39 [notice] 50880#0: signal process started
+2014/07/01 11:21:41 [error] 50881#0: *37 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:21:41 [error] 50881#0: *37 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:21:42 [error] 50881#0: *37 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:21:47 [error] 50881#0: *37 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:22:32 [notice] 50885#0: signal process started
+2014/07/01 11:22:34 [error] 50886#0: *39 "/Users/howie/Sites/alitest/html/res/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /res/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 11:23:54 [error] 50886#0: *40 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 10.68.101.35, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.68.101.35:8080"
+2014/07/01 12:54:00 [error] 670#0: *1 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/01 13:12:56 [error] 670#0: *3 open() "/Users/howie/Sites/alitest/html/1.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /1.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 13:43:38 [error] 670#0: *18 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/01 13:45:34 [error] 670#0: *23 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2014/07/01 13:45:44 [error] 670#0: *24 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/01 13:52:48 [error] 670#0: *44 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/01 14:05:24 [error] 670#0: *46 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 10.68.101.35, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.68.101.35:8080"
+2014/07/01 14:09:50 [error] 670#0: *49 open() "/Users/howie/Sites/alitest/html/favicon.ico" failed (2: No such file or directory), client: 10.68.110.40, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.68.101.35:8080"
+2014/07/04 10:43:50 [error] 5756#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/04 17:01:43 [error] 5756#0: *17 open() "./html/res/dongwu.zipdongwu.zip" failed (2: No such file or directory), client: 10.68.100.42, server: , request: "GET /res/dongwu.zipdongwu.zip HTTP/1.1", host: "10.68.101.35:8080"
+2014/07/04 17:01:48 [error] 5756#0: *18 open() "./html/res/dongwu.zipdongwu.zip" failed (2: No such file or directory), client: 10.68.100.42, server: , request: "GET /res/dongwu.zipdongwu.zip HTTP/1.1", host: "10.68.101.35:8080"
+2014/07/08 10:07:15 [error] 1445#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/08 10:14:00 [error] 1445#0: *4 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.8, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.68.102.8:8080"
+2014/07/13 21:33:02 [error] 31763#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/13 21:34:21 [error] 31763#0: *6 open() "./html/favicon.ico" failed (2: No such file or directory), client: 192.168.2.102, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/13 21:34:34 [error] 31763#0: *6 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/13 21:35:09 [error] 31763#0: *10 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 127.0.0.1, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "localhost:8080"
+2014/07/13 21:35:22 [error] 31763#0: *15 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:24 [error] 31763#0: *16 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:25 [error] 31763#0: *17 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:26 [error] 31763#0: *18 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:27 [error] 31763#0: *19 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:29 [error] 31763#0: *20 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:31 [error] 31763#0: *21 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:32 [error] 31763#0: *22 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:33 [error] 31763#0: *23 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:35 [error] 31763#0: *24 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:36 [error] 31763#0: *25 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:38 [error] 31763#0: *26 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:39 [error] 31763#0: *27 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:40 [error] 31763#0: *28 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:42 [error] 31763#0: *29 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:44 [error] 31763#0: *30 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:45 [error] 31763#0: *31 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:46 [error] 31763#0: *32 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/13 21:35:51 [error] 31763#0: *6 open() "./html/res/wupin.zip" failed (13: Permission denied), client: 192.168.2.102, server: , request: "GET /res/wupin.zip HTTP/1.1", host: "ali-howie.local:8080", referrer: "http://ali-howie.local:8080/res/"
+2014/07/14 10:31:05 [error] 1415#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/15 16:12:10 [error] 13465#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/15 16:13:24 [error] 13465#0: *2 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.100.242, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/15 16:14:23 [error] 13465#0: *5 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.100.242, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.68.100.242:8080"
+2014/07/15 16:22:18 [error] 13465#0: *8 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.211.55.3, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.211.55.2:8080"
+2014/07/15 16:24:14 [error] 13465#0: *9 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.37.129.2, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.37.129.2:8080"
+2014/07/16 11:30:18 [alert] 5171#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/16 11:30:26 [error] 5173#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/16 11:37:13 [alert] 5200#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/16 11:37:13 [notice] 5200#0: signal process started
+2014/07/16 11:37:13 [alert] 5172#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/16 11:38:11 [error] 5201#0: *2 open() "./html/tesss" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /tesss HTTP/1.1", host: "localhost:8080"
+2014/07/16 11:38:37 [error] 5201#0: *2 open() "./html/tes" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /tes HTTP/1.1", host: "localhost:8080"
+2014/07/18 11:37:34 [alert] 7485#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/18 11:37:42 [error] 7487#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/18 11:39:37 [alert] 7546#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/18 11:39:37 [notice] 7546#0: signal process started
+2014/07/18 11:39:37 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/18 15:50:00 [alert] 11404#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/18 15:50:00 [notice] 11404#0: signal process started
+2014/07/18 15:50:00 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:16
+2014/07/18 15:50:06 [error] 11405#0: *241 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/18 15:54:04 [emerg] 11419#0: invalid event type "epoll" in ./conf/nginx.conf:6
+2014/07/18 16:02:14 [warn] 11436#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:02:14 [alert] 11436#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:02:14 [notice] 11436#0: signal process started
+2014/07/18 16:02:14 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:23:31 [warn] 11498#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:23:31 [alert] 11498#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:23:31 [notice] 11498#0: signal process started
+2014/07/18 16:23:31 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:27:34 [error] 11499#0: *248 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:29:18 [error] 11499#0: *251 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:31:46 [error] 11499#0: *254 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:33:30 [error] 11499#0: *257 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:35:29 [error] 11499#0: *261 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:36:27 [warn] 12049#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:36:27 [alert] 12049#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:36:27 [notice] 12049#0: signal process started
+2014/07/18 16:36:27 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:37:18 [warn] 12055#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:37:18 [alert] 12055#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:37:18 [notice] 12055#0: signal process started
+2014/07/18 16:37:18 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:37:21 [error] 12059#0: *263 failed to run set_by_lua*: ./conf/req.lua:8: no request body found; maybe you should turn on lua_need_request_body?
+stack traceback:
+	[C]: in function 'get_post_args'
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:38:35 [warn] 12067#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:38:35 [alert] 12067#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:38:35 [notice] 12067#0: signal process started
+2014/07/18 16:38:35 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:38:38 [error] 12071#0: *264 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:42:37 [warn] 12085#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:42:37 [alert] 12085#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:42:37 [notice] 12085#0: signal process started
+2014/07/18 16:42:37 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:42:39 [error] 12087#0: *265 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:43:52 [warn] 12098#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:43:52 [alert] 12098#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:43:52 [notice] 12098#0: signal process started
+2014/07/18 16:43:52 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:43:55 [error] 12100#0: *266 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 16:56:34 [warn] 12119#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 16:56:34 [alert] 12119#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:56:34 [notice] 12119#0: signal process started
+2014/07/18 16:56:34 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 16:56:35 [error] 12120#0: *267 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:01:55 [warn] 12142#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:01:55 [alert] 12142#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:01:55 [notice] 12142#0: signal process started
+2014/07/18 17:01:55 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:04:06 [warn] 12148#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:04:06 [alert] 12148#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:04:06 [notice] 12148#0: signal process started
+2014/07/18 17:04:06 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:05:19 [warn] 12154#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:05:19 [alert] 12154#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:05:19 [notice] 12154#0: signal process started
+2014/07/18 17:05:19 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:05:21 [error] 12156#0: *270 failed to load inlined Lua code: content_by_lua:5: unexpected symbol near '=', client: 10.68.100.70, server: , request: "POST /post HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:05:53 [warn] 12160#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:05:53 [alert] 12160#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:05:53 [emerg] 12160#0: unexpected "s" in ./conf/nginx.conf:65
+2014/07/18 17:06:23 [warn] 12163#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:06:23 [alert] 12163#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:06:23 [emerg] 12163#0: unexpected "s" in ./conf/nginx.conf:65
+2014/07/18 17:06:36 [warn] 12164#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:06:36 [alert] 12164#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:06:36 [emerg] 12164#0: unexpected "s" in ./conf/nginx.conf:65
+2014/07/18 17:07:07 [warn] 12165#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:07:07 [alert] 12165#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:07:07 [notice] 12165#0: signal process started
+2014/07/18 17:07:07 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:19 [warn] 12172#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:08:19 [alert] 12172#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:19 [emerg] 12172#0: unexpected "s" in ./conf/nginx.conf:66
+2014/07/18 17:08:31 [warn] 12173#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:08:31 [alert] 12173#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:31 [notice] 12173#0: signal process started
+2014/07/18 17:08:31 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:42 [warn] 12179#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:08:42 [alert] 12179#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:42 [notice] 12179#0: signal process started
+2014/07/18 17:08:42 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:08:44 [error] 12182#0: *273 failed to load inlined Lua code: content_by_lua:7: unfinished string near '"', client: 10.68.100.70, server: , request: "POST /post HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:08:46 [error] 12182#0: *274 failed to load inlined Lua code: content_by_lua:7: unfinished string near '"', client: 10.68.100.70, server: , request: "POST /post HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:09:03 [warn] 12186#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:09:03 [alert] 12186#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:09:03 [emerg] 12186#0: unexpected "\" in ./conf/nginx.conf:66
+2014/07/18 17:11:52 [warn] 12188#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:11:52 [alert] 12188#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:11:52 [notice] 12188#0: signal process started
+2014/07/18 17:11:52 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:13:45 [warn] 12195#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:13:45 [alert] 12195#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:13:45 [notice] 12195#0: signal process started
+2014/07/18 17:13:45 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:14:01 [error] 12196#0: *277 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:14:21 [warn] 12203#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:14:21 [alert] 12203#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:14:21 [notice] 12203#0: signal process started
+2014/07/18 17:14:21 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:14:24 [error] 12204#0: *278 failed to run set_by_lua*: ./conf/req.lua:7: API disabled in the context of set_by_lua*
+stack traceback:
+	[C]: in function 'read_body'
+	./conf/req.lua:7: in function <./conf/req.lua:1>, client: 10.68.100.70, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/18 17:15:37 [warn] 12209#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/18 17:15:37 [alert] 12209#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/18 17:15:37 [notice] 12209#0: signal process started
+2014/07/18 17:15:37 [alert] 7486#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/19 12:27:50 [warn] 2947#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/19 12:27:50 [alert] 2947#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/19 21:38:01 [warn] 1305#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/19 21:38:01 [alert] 1305#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/19 23:51:50 [error] 1307#0: *102 failed to run set_by_lua*: ./conf/req.lua:8: attempt to index local 'args' (a nil value)
+stack traceback:
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 192.168.2.102, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/19 23:52:01 [error] 1307#0: *109 failed to run set_by_lua*: ./conf/req.lua:8: attempt to index local 'args' (a nil value)
+stack traceback:
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 192.168.2.102, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/19 23:52:03 [error] 1307#0: *113 failed to run set_by_lua*: ./conf/req.lua:8: attempt to index local 'args' (a nil value)
+stack traceback:
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 192.168.2.102, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/19 23:52:05 [error] 1307#0: *117 failed to run set_by_lua*: ./conf/req.lua:8: attempt to index local 'args' (a nil value)
+stack traceback:
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 192.168.2.102, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/19 23:52:18 [error] 1307#0: *121 failed to run set_by_lua*: ./conf/req.lua:8: attempt to index local 'args' (a nil value)
+stack traceback:
+	./conf/req.lua:8: in function <./conf/req.lua:1>, client: 192.168.2.102, server: , request: "POST /req HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/28 14:23:50 [warn] 10063#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/28 14:23:50 [alert] 10063#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/28 14:24:01 [error] 10065#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/28 17:36:04 [warn] 1086#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/28 17:36:04 [alert] 1086#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/29 09:34:01 [warn] 986#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/29 09:34:01 [alert] 986#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/29 15:46:53 [warn] 32068#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/29 15:46:53 [alert] 32068#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/29 15:46:53 [notice] 32068#0: signal process started
+2014/07/29 15:46:53 [alert] 987#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/29 15:47:04 [error] 32070#0: *13 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:08:07 [error] 32070#0: *27 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=%22a%22 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:08:45 [error] 32070#0: *32 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=%22a%22 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:08:46 [error] 32070#0: *33 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=%22a%22 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:08:46 [error] 32070#0: *34 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=%22a%22 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:08:46 [error] 32070#0: *35 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=%22a%22 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:09:42 [error] 32070#0: *36 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089fs HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:11:49 [error] 32070#0: *40 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:12:43 [error] 32070#0: *42 failed to run set_by_lua*: ./conf/version.lua:20: attempt to concatenate local 'client_id' (a nil value)
+stack traceback:
+	./conf/version.lua:20: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:09 [error] 32070#0: *51 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:37 [error] 32070#0: *53 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:15: unexpected symbol near '[', client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:49 [error] 32070#0: *54 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:15: unexpected symbol near '[', client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:49 [error] 32070#0: *55 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:15: unexpected symbol near '[', client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:50 [error] 32070#0: *56 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:15: unexpected symbol near '[', client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:29:50 [error] 32070#0: *57 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:15: unexpected symbol near '[', client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:30:21 [error] 32070#0: *59 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:30:22 [error] 32070#0: *60 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:30:22 [error] 32070#0: *61 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:30:23 [error] 32070#0: *62 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:40 [error] 32070#0: *64 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:41 [error] 32070#0: *65 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:41 [error] 32070#0: *66 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:42 [error] 32070#0: *67 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:52 [error] 32070#0: *68 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:53 [error] 32070#0: *69 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:53 [error] 32070#0: *70 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:31:53 [error] 32070#0: *71 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:32:16 [error] 32070#0: *72 failed to run set_by_lua*: ./conf/version.lua:1: module 'json' not found:
+	no field package.preload['json']
+	no file '/usr/local/openresty/lualib/json.lua'
+	no file '/usr/local/openresty/lualib/json/init.lua'
+	no file './json.lua'
+	no file '/usr/local/share/luajit-2.0.3/json.lua'
+	no file '/usr/local/share/lua/5.1/json.lua'
+	no file '/usr/local/share/lua/5.1/json/init.lua'
+	no file '/usr/local/openresty/lualib/json.so'
+	no file './json.so'
+	no file '/usr/local/lib/lua/5.1/json.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	./conf/version.lua:1: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:33:08 [error] 32070#0: *74 failed to run set_by_lua*: ./conf/version.lua:25: attempt to call global '    print' (a nil value)
+stack traceback:
+	./conf/version.lua:25: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/29 16:41:16 [error] 32070#0: *82 failed to run set_by_lua*: ./conf/version.lua:24: Cannot serialise, excessive nesting (1001)
+stack traceback:
+	[C]: in function 'encode'
+	./conf/version.lua:24: in function <./conf/version.lua:1>, client: 127.0.0.1, server: , request: "GET /version?client_secret=e5a7c3beffe6dea4105ff1c64c42089f&client_id=10001&version_code=10000 HTTP/1.1", host: "localhost:8080"
+2014/07/30 09:54:04 [warn] 7802#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/30 09:54:04 [alert] 7802#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/30 11:32:19 [error] 7804#0: *4 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.169, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/30 13:03:30 [error] 7804#0: *23 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.103.12, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/30 13:12:57 [error] 7804#0: *28 open() "./html/res/dongwu.pic" failed (2: No such file or directory), client: 10.68.103.12, server: , request: "GET /res/dongwu.pic HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/30 17:29:08 [error] 7804#0: *53 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.169, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/30 17:58:53 [error] 7804#0: *75 failed to load external Lua file "./conf/version.lua": ./conf/version.lua:24: invalid escape sequence near '"http:', client: 10.68.102.169, server: , request: "GET /version?version_code=10000&client_id=10000&client_secret=e5a7c3beffe6dea4105ff1c64c42089f HTTP/1.1", host: "ali-howie.local:8080"
+2014/07/31 09:01:01 [warn] 449#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in ./conf/nginx.conf:11
+2014/07/31 09:01:01 [alert] 449#0: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:21
+2014/07/31 09:01:08 [error] 451#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2014/07/31 11:33:26 [error] 451#0: *9 open() "./html/favicon.ico" failed (2: No such file or directory), client: 10.68.102.169, server: , request: "GET /favicon.ico HTTP/1.1", host: "ali-howie.local:8080"
